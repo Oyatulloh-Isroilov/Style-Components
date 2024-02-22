@@ -81,7 +81,6 @@ function Hero5() {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent;
     font-size: 64px;
     font-weight: 800;
     line-height: 88px;
